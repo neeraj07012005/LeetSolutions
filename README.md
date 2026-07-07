@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/neeraj07012005/LeetSolutions/tree/master/0078-subsets) |
 | [0414-third-maximum-number](https://github.com/neeraj07012005/LeetSolutions/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/neeraj07012005/LeetSolutions/tree/master/0496-next-greater-element-i) |
 | [0881-boats-to-save-people](https://github.com/neeraj07012005/LeetSolutions/tree/master/0881-boats-to-save-people) |
 | [1480-running-sum-of-1d-array](https://github.com/neeraj07012005/LeetSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/neeraj07012005/LeetSolutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -63,4 +64,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/neeraj07012005/LeetSolutions/tree/master/0112-path-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/neeraj07012005/LeetSolutions/tree/master/0496-next-greater-element-i) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/neeraj07012005/LeetSolutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/neeraj07012005/LeetSolutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
