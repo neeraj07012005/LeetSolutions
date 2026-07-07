@@ -10,23 +10,37 @@
  * };
  */
 class Solution {
-private:
-    bool solve(TreeNode* root, int targetSum, int sum){
 
-        if(root == nullptr){
+private:
+    bool solve(TreeNode* root, int targetSum , int sum){
+
+        if(root == nullptr){      // added
             return false;
         }
 
-        if(root->left == nullptr && root->right == nullptr){
-            return (sum + root->val == targetSum);
+        if(root->left==nullptr && root->right == nullptr){
+            if(sum + root->val == targetSum){   // changed
+                return true;
+            }
+            else{
+                return false;
+            }
         }
 
-        return solve(root->left, targetSum, sum + root->val) ||
-               solve(root->right, targetSum, sum + root->val);
+        bool a = solve(root->left , targetSum , sum + root->val);
+        bool b = solve(root->right, targetSum , sum + root->val);
+
+        if(a == true || b == true){
+            return true;
+        }
+        else{
+            return false;
+        }
+
     }
 
 public:
     bool hasPathSum(TreeNode* root, int targetSum) {
-        return solve(root, targetSum, 0);
+        return solve(root, targetSum , 0);
     }
 };
