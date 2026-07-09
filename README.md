@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/neeraj07012005/LeetSolutions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/neeraj07012005/LeetSolutions/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/neeraj07012005/LeetSolutions/tree/master/0881-boats-to-save-people) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/neeraj07012005/LeetSolutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/neeraj07012005/LeetSolutions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/neeraj07012005/LeetSolutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/neeraj07012005/LeetSolutions/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/neeraj07012005/LeetSolutions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/neeraj07012005/LeetSolutions/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
