@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/neeraj07012005/LeetSolutions/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/neeraj07012005/LeetSolutions/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/neeraj07012005/LeetSolutions/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -52,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/neeraj07012005/LeetSolutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/neeraj07012005/LeetSolutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/neeraj07012005/LeetSolutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/neeraj07012005/LeetSolutions/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/neeraj07012005/LeetSolutions/tree/master/0022-generate-parentheses) |
+| [0392-is-subsequence](https://github.com/neeraj07012005/LeetSolutions/tree/master/0392-is-subsequence) |
 ## Tree
 |  |
 | ------- |
