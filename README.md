@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/neeraj07012005/LeetSolutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/neeraj07012005/LeetSolutions/tree/master/0078-subsets) |
 | [0414-third-maximum-number](https://github.com/neeraj07012005/LeetSolutions/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/neeraj07012005/LeetSolutions/tree/master/0496-next-greater-element-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/neeraj07012005/LeetSolutions/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/neeraj07012005/LeetSolutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/neeraj07012005/LeetSolutions/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/neeraj07012005/LeetSolutions/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
