@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/neeraj07012005/LeetSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/neeraj07012005/LeetSolutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/neeraj07012005/LeetSolutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/neeraj07012005/LeetSolutions/tree/master/0079-word-search) |
@@ -141,5 +142,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/neeraj07012005/LeetSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/neeraj07012005/LeetSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
