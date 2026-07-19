@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/neeraj07012005/LeetSolutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/neeraj07012005/LeetSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/neeraj07012005/LeetSolutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/neeraj07012005/LeetSolutions/tree/master/0078-subsets) |
@@ -27,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/neeraj07012005/LeetSolutions/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/neeraj07012005/LeetSolutions/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/neeraj07012005/LeetSolutions/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/neeraj07012005/LeetSolutions/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/neeraj07012005/LeetSolutions/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/neeraj07012005/LeetSolutions/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/neeraj07012005/LeetSolutions/tree/master/0881-boats-to-save-people) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/neeraj07012005/LeetSolutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
