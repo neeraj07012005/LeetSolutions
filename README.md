@@ -97,12 +97,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/neeraj07012005/LeetSolutions/tree/master/0113-path-sum-ii) |
 | [0200-number-of-islands](https://github.com/neeraj07012005/LeetSolutions/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/neeraj07012005/LeetSolutions/tree/master/0257-binary-tree-paths) |
+| [0547-number-of-provinces](https://github.com/neeraj07012005/LeetSolutions/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/neeraj07012005/LeetSolutions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/neeraj07012005/LeetSolutions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/neeraj07012005/LeetSolutions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/neeraj07012005/LeetSolutions/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/neeraj07012005/LeetSolutions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/neeraj07012005/LeetSolutions/tree/master/0547-number-of-provinces) |
 ## Simulation
 |  |
 | ------- |
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/neeraj07012005/LeetSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/neeraj07012005/LeetSolutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
