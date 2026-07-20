@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/neeraj07012005/LeetSolutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/neeraj07012005/LeetSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/neeraj07012005/LeetSolutions/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/neeraj07012005/LeetSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3941-password-strength](https://github.com/neeraj07012005/LeetSolutions/tree/master/3941-password-strength) |
 ## Dynamic Programming
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/neeraj07012005/LeetSolutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/neeraj07012005/LeetSolutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/neeraj07012005/LeetSolutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/neeraj07012005/LeetSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/neeraj07012005/LeetSolutions/tree/master/0496-next-greater-element-i) |
 | [3941-password-strength](https://github.com/neeraj07012005/LeetSolutions/tree/master/3941-password-strength) |
 ## Stack
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/neeraj07012005/LeetSolutions/tree/master/0735-asteroid-collision) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/neeraj07012005/LeetSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
