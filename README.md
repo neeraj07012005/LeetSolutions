@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/neeraj07012005/LeetSolutions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/neeraj07012005/LeetSolutions/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/neeraj07012005/LeetSolutions/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/neeraj07012005/LeetSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0881-boats-to-save-people](https://github.com/neeraj07012005/LeetSolutions/tree/master/0881-boats-to-save-people) |
 | [1480-running-sum-of-1d-array](https://github.com/neeraj07012005/LeetSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/neeraj07012005/LeetSolutions/tree/master/3951-minimum-energy-to-maintain-brightness) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/neeraj07012005/LeetSolutions/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/neeraj07012005/LeetSolutions/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/neeraj07012005/LeetSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/neeraj07012005/LeetSolutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Tree
 |  |
