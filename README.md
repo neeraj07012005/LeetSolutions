@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/neeraj07012005/LeetSolutions/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/neeraj07012005/LeetSolutions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/neeraj07012005/LeetSolutions/tree/master/0605-can-place-flowers) |
+| [0695-max-area-of-island](https://github.com/neeraj07012005/LeetSolutions/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/neeraj07012005/LeetSolutions/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/neeraj07012005/LeetSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0881-boats-to-save-people](https://github.com/neeraj07012005/LeetSolutions/tree/master/0881-boats-to-save-people) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/neeraj07012005/LeetSolutions/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/neeraj07012005/LeetSolutions/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/neeraj07012005/LeetSolutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/neeraj07012005/LeetSolutions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/neeraj07012005/LeetSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/neeraj07012005/LeetSolutions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/neeraj07012005/LeetSolutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/neeraj07012005/LeetSolutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/neeraj07012005/LeetSolutions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/neeraj07012005/LeetSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/neeraj07012005/LeetSolutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/neeraj07012005/LeetSolutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/neeraj07012005/LeetSolutions/tree/master/0695-max-area-of-island) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/neeraj07012005/LeetSolutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/neeraj07012005/LeetSolutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/neeraj07012005/LeetSolutions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/neeraj07012005/LeetSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Simulation
 |  |
