@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/neeraj07012005/LeetSolutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/neeraj07012005/LeetSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/neeraj07012005/LeetSolutions/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/neeraj07012005/LeetSolutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/neeraj07012005/LeetSolutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/neeraj07012005/LeetSolutions/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/neeraj07012005/LeetSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/neeraj07012005/LeetSolutions/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/neeraj07012005/LeetSolutions/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/neeraj07012005/LeetSolutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/neeraj07012005/LeetSolutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/neeraj07012005/LeetSolutions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/neeraj07012005/LeetSolutions/tree/master/0113-path-sum-ii) |
