@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/neeraj07012005/LeetSolutions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/neeraj07012005/LeetSolutions/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/neeraj07012005/LeetSolutions/tree/master/0881-boats-to-save-people) |
+| [3536-maximum-product-of-two-digits](https://github.com/neeraj07012005/LeetSolutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/neeraj07012005/LeetSolutions/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/neeraj07012005/LeetSolutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Backtracking
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/neeraj07012005/LeetSolutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/neeraj07012005/LeetSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
