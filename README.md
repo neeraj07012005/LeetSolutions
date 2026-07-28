@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/neeraj07012005/LeetSolutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/neeraj07012005/LeetSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/neeraj07012005/LeetSolutions/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/neeraj07012005/LeetSolutions/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/neeraj07012005/LeetSolutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/neeraj07012005/LeetSolutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/neeraj07012005/LeetSolutions/tree/master/0079-word-search) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/neeraj07012005/LeetSolutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/neeraj07012005/LeetSolutions/tree/master/0045-jump-game-ii) |
 | [0605-can-place-flowers](https://github.com/neeraj07012005/LeetSolutions/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/neeraj07012005/LeetSolutions/tree/master/0881-boats-to-save-people) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/neeraj07012005/LeetSolutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/neeraj07012005/LeetSolutions/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/neeraj07012005/LeetSolutions/tree/master/0045-jump-game-ii) |
 | [0198-house-robber](https://github.com/neeraj07012005/LeetSolutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/neeraj07012005/LeetSolutions/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/neeraj07012005/LeetSolutions/tree/master/0746-min-cost-climbing-stairs) |
