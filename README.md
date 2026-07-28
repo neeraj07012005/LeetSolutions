@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/neeraj07012005/LeetSolutions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/neeraj07012005/LeetSolutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/neeraj07012005/LeetSolutions/tree/master/0257-binary-tree-paths) |
+| [0797-all-paths-from-source-to-target](https://github.com/neeraj07012005/LeetSolutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/neeraj07012005/LeetSolutions/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/neeraj07012005/LeetSolutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/neeraj07012005/LeetSolutions/tree/master/0695-max-area-of-island) |
+| [0797-all-paths-from-source-to-target](https://github.com/neeraj07012005/LeetSolutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/neeraj07012005/LeetSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/neeraj07012005/LeetSolutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/neeraj07012005/LeetSolutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/neeraj07012005/LeetSolutions/tree/master/0695-max-area-of-island) |
+| [0797-all-paths-from-source-to-target](https://github.com/neeraj07012005/LeetSolutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/neeraj07012005/LeetSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -201,5 +204,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/neeraj07012005/LeetSolutions/tree/master/0547-number-of-provinces) |
+| [0797-all-paths-from-source-to-target](https://github.com/neeraj07012005/LeetSolutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/neeraj07012005/LeetSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
