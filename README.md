@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/neeraj07012005/LeetSolutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/neeraj07012005/LeetSolutions/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/neeraj07012005/LeetSolutions/tree/master/0797-all-paths-from-source-to-target) |
+| [0841-keys-and-rooms](https://github.com/neeraj07012005/LeetSolutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/neeraj07012005/LeetSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/neeraj07012005/LeetSolutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/neeraj07012005/LeetSolutions/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/neeraj07012005/LeetSolutions/tree/master/0797-all-paths-from-source-to-target) |
+| [0841-keys-and-rooms](https://github.com/neeraj07012005/LeetSolutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/neeraj07012005/LeetSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -211,5 +213,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/neeraj07012005/LeetSolutions/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/neeraj07012005/LeetSolutions/tree/master/0797-all-paths-from-source-to-target) |
+| [0841-keys-and-rooms](https://github.com/neeraj07012005/LeetSolutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/neeraj07012005/LeetSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
