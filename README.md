@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/neeraj07012005/LeetSolutions/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/neeraj07012005/LeetSolutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/neeraj07012005/LeetSolutions/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/neeraj07012005/LeetSolutions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/neeraj07012005/LeetSolutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/neeraj07012005/LeetSolutions/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/neeraj07012005/LeetSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
