@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/neeraj07012005/LeetSolutions/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/neeraj07012005/LeetSolutions/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/neeraj07012005/LeetSolutions/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/neeraj07012005/LeetSolutions/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/neeraj07012005/LeetSolutions/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/neeraj07012005/LeetSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/neeraj07012005/LeetSolutions/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/neeraj07012005/LeetSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/neeraj07012005/LeetSolutions/tree/master/0567-permutation-in-string) |
 | [3941-password-strength](https://github.com/neeraj07012005/LeetSolutions/tree/master/3941-password-strength) |
 ## Dynamic Programming
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/neeraj07012005/LeetSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/neeraj07012005/LeetSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/neeraj07012005/LeetSolutions/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/neeraj07012005/LeetSolutions/tree/master/0567-permutation-in-string) |
 | [3941-password-strength](https://github.com/neeraj07012005/LeetSolutions/tree/master/3941-password-strength) |
 ## Stack
 |  |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/neeraj07012005/LeetSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/neeraj07012005/LeetSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/neeraj07012005/LeetSolutions/tree/master/0567-permutation-in-string) |
 ## Graph Theory
 |  |
 | ------- |
