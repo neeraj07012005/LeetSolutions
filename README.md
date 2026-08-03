@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/neeraj07012005/LeetSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/neeraj07012005/LeetSolutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/neeraj07012005/LeetSolutions/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/neeraj07012005/LeetSolutions/tree/master/0079-word-search) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/neeraj07012005/LeetSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/neeraj07012005/LeetSolutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/neeraj07012005/LeetSolutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/neeraj07012005/LeetSolutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/neeraj07012005/LeetSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/neeraj07012005/LeetSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Graph Theory
 |  |
