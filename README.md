@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/neeraj07012005/LeetSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0881-boats-to-save-people](https://github.com/neeraj07012005/LeetSolutions/tree/master/0881-boats-to-save-people) |
 | [1480-running-sum-of-1d-array](https://github.com/neeraj07012005/LeetSolutions/tree/master/1480-running-sum-of-1d-array) |
+| [1695-maximum-erasure-value](https://github.com/neeraj07012005/LeetSolutions/tree/master/1695-maximum-erasure-value) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/neeraj07012005/LeetSolutions/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/neeraj07012005/LeetSolutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Prefix Sum
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/neeraj07012005/LeetSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/neeraj07012005/LeetSolutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/neeraj07012005/LeetSolutions/tree/master/0567-permutation-in-string) |
+| [1695-maximum-erasure-value](https://github.com/neeraj07012005/LeetSolutions/tree/master/1695-maximum-erasure-value) |
 | [3941-password-strength](https://github.com/neeraj07012005/LeetSolutions/tree/master/3941-password-strength) |
 ## Stack
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/neeraj07012005/LeetSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/neeraj07012005/LeetSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/neeraj07012005/LeetSolutions/tree/master/0567-permutation-in-string) |
+| [1695-maximum-erasure-value](https://github.com/neeraj07012005/LeetSolutions/tree/master/1695-maximum-erasure-value) |
 ## Graph Theory
 |  |
 | ------- |
