@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/neeraj07012005/LeetSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/neeraj07012005/LeetSolutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/neeraj07012005/LeetSolutions/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/neeraj07012005/LeetSolutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/neeraj07012005/LeetSolutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/neeraj07012005/LeetSolutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/neeraj07012005/LeetSolutions/tree/master/0057-insert-interval) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/neeraj07012005/LeetSolutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/neeraj07012005/LeetSolutions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/neeraj07012005/LeetSolutions/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/neeraj07012005/LeetSolutions/tree/master/0881-boats-to-save-people) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/neeraj07012005/LeetSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/neeraj07012005/LeetSolutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/neeraj07012005/LeetSolutions/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/neeraj07012005/LeetSolutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/neeraj07012005/LeetSolutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/neeraj07012005/LeetSolutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/neeraj07012005/LeetSolutions/tree/master/0242-valid-anagram) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/neeraj07012005/LeetSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/neeraj07012005/LeetSolutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/neeraj07012005/LeetSolutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/neeraj07012005/LeetSolutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/neeraj07012005/LeetSolutions/tree/master/0387-first-unique-character-in-a-string) |
