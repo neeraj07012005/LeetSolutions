@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/neeraj07012005/LeetSolutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/neeraj07012005/LeetSolutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/neeraj07012005/LeetSolutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/neeraj07012005/LeetSolutions/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/neeraj07012005/LeetSolutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/neeraj07012005/LeetSolutions/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/neeraj07012005/LeetSolutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/neeraj07012005/LeetSolutions/tree/master/0062-unique-paths) |
 | [3536-maximum-product-of-two-digits](https://github.com/neeraj07012005/LeetSolutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/neeraj07012005/LeetSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/neeraj07012005/LeetSolutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/neeraj07012005/LeetSolutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/neeraj07012005/LeetSolutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/neeraj07012005/LeetSolutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
